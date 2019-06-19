@@ -1,0 +1,15 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container{
+    margin-bottom: 20px;
+}
+
+.output{
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+            transform: translate(-50%);
+}
